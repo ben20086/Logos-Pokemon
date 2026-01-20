@@ -30,6 +30,79 @@ Choose:
 
 mGBA
 
+4. Start the Game
+
+Click Start or Play
+
+The GBA boot screen should appear
+
+Your game will begin normally
+
+Controls (Default)
+GBA Button	Keyboard
+D-Pad	Arrow keys
+A	Z
+B	X
+L	A
+R	S
+Start	Enter
+Select	Backspace
+
+You can change these under:
+
+Menu → Controls
+
+Saving Your Game (Very Important)
+In-game saves (recommended)
+
+Use the game’s normal save system
+
+mGBA handles SRAM correctly
+
+Save States (optional)
+
+Menu → Save State
+
+Menu → Load State
+
+⚠️ Save states may not always persist if you clear browser data.
+
+Best Settings for GBA on WebRetro (Optional)
+
+If available in your menu:
+
+Audio latency: Low
+
+Video scaling: Integer / Pixel Perfect
+
+VSync: off 
+
+Common Problems & Fixes
+
+Game won’t start
+
+Make sure:
+
+File is .gba
+
+Core is set to mGBA
+
+You clicked Start
+
+Save not working
+
+Use in-game saves, not only save states
+
+Don’t use incognito mode
+
+Lag or audio crackling
+
+Close other tabs
+
+Lower audio latency
+
+Use Chrome or Edge (best support)
+
 ### Latest version: v6.5
 
 These cores are included pre-built with the repository (ROMs **NOT** included):
