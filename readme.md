@@ -1,4 +1,34 @@
+*none of the following multiplayer features will work if you are not connected to the same wifi*
+
 How to use
+
+1. Open the Menu
+
+Click the menu button (☰ or “Menu”) on the screen
+
+This opens the emulator control panel
+
+2. Load Your GBA ROM
+
+Click Load ROM
+
+Select your .gba file from your computer
+
+Example files:
+
+Pokemon Emerald.gba
+
+Metroid Fusion.gba
+
+The game will not start yet if the core isn’t chosen
+
+3. Select the Emulator Core (IMPORTANT)
+
+After loading the ROM, find Core / Emulator
+
+Choose:
+
+mGBA
 
 ### Latest version: v6.5
 
