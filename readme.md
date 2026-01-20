@@ -30,27 +30,15 @@ The game will not start yet if the core isn’t chosen
 
 After loading the ROM, find Core / Emulator
 
-Choose:
-
-mGBA
+Choose whichever core represents the console you want to play. 
 
 4. Start the Game
 
 Click Start or Play
 
-The GBA boot screen should appear
-
 Your game will begin normally
 
-Controls (Default)
-GBA Button	Keyboard
-D-Pad	Arrow keys
-A	Z
-B	X
-L	A
-R	S
-Start	Enter
-Select	Backspace
+controls may vary from console to console 
 
 You can change these under:
 
@@ -61,8 +49,6 @@ In-game saves (recommended)
 
 Use the game’s normal save system
 
-mGBA handles SRAM correctly
-
 Save States (optional)
 
 Menu → Save State
@@ -71,7 +57,7 @@ Menu → Load State
 
 ⚠️ Save states may not always persist if you clear browser data.
 
-Best Settings for GBA on WebRetro (Optional)
+Best Settings for WebRetro (Optional)
 
 If available in your menu:
 
@@ -81,31 +67,7 @@ Video scaling: Integer / Pixel Perfect
 
 VSync: off 
 
-Common Problems & Fixes
-
-Game won’t start
-
-Make sure:
-
-File is .gba
-
-Core is set to mGBA
-
-You clicked Start
-
-Save not working
-
-Use in-game saves, not only save states
-
-Don’t use incognito mode
-
-Lag or audio crackling
-
-Close other tabs
-
-Lower audio latency
-
-Use Chrome or Edge (best support)
+Use Chrome for best support
 
 ### Latest version: v6.5
 
