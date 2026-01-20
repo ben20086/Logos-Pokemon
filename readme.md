@@ -1,6 +1,6 @@
 *none of the following multiplayer features will work if you are not connected to the same wifi*
 
-*only rom provided will be from the repository main branch in .zip format*
+*only rom provided will be from the repository releases tab in .zip format*
 
 *do not come to me for roms directly I can provide links just not throught github*
 
